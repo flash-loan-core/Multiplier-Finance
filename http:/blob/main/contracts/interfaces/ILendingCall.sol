@@ -10,6 +10,4 @@ contract Manager {
     }
 }
 
-//pancakeswapfunction
-© 2022 GitHub, Inc.
-Term
+//pancakeswapfunction © 2022 GitHub, Inc. Term
